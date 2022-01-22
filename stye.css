@@ -7,10 +7,6 @@
   box-sizing: border-box;
 }
 
-h1 {
-  display: none;
-}
-
 body {
   background-color: hsl(217, 54%, 11%);
   display: flex;
